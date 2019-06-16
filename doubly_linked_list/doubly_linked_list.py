@@ -185,4 +185,4 @@ myList.add_to_tail(4)
 
 myList.move_to_front(myList.head.next.next)
 
-print(myList.head.next.next.value)
+# print(myList.head.next.next.value)
